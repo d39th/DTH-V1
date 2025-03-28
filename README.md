@@ -5,7 +5,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://images.guns.lol/LP92s.png" alt="project-screenshot" width="1000" height="1000/">
+<img src="https://images.guns.lol/LP92s.png" alt="project-screenshot" width="800" height="600/">
 
   
   
